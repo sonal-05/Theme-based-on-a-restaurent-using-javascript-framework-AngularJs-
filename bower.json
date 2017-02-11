@@ -1,0 +1,22 @@
+{
+  "name": ": conFusion",
+  "authors": [
+    "sonal"
+  ],
+  "description": ": website for an awesum restaurent",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurent"
+  ],
+  "license": "MIT",
+  "homepage": "''",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
